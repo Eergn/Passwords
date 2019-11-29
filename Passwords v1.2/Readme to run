@@ -1,0 +1,5 @@
+run (run)in terminal
+if it doesnot work goto file properties and permission and check execute as true
+
+note :
+it works just in linux
