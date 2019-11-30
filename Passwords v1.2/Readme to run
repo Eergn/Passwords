@@ -1,5 +1,8 @@
-run (run)in terminal
-if it doesnot work goto file properties and permission and check execute as true
+open terminal
+copy this below
+nano ~/.bash_aliases
+and copy this below to the green menu
+alias password='python2 Passwords-v1.2/tool.py'
 
 note :
 it works just in linux
